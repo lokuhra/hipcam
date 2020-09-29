@@ -1,11 +1,11 @@
 "use strict";
 
-import FreyaButton from "./button";
-import FreyaHelmet from "./helmet";
-import FreyaModal from "./modal";
+import Button from "./button";
+import Helmet from "./helmet";
+import Modal from "./modal";
 
 module.exports = {
-  FreyaButton,
-  FreyaHelmet,
-  FreyaModal,
+  Button,
+  Helmet,
+  Modal,
 };
